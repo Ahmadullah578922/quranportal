@@ -4,7 +4,7 @@
   <body style="background: #f1f1f1;">
   <div class="container mt-4" >
     <div class="row h-100 justify-content-center">
-      <a href='index.php'><img src="images/quranportal.png" alt="" class="img-responsive img-fluid" style="height:165px; margin-bottom:30px;"></a>
+      <a href='index.php'><img src="images/quranportal.png" alt="" class="img-responsive img-fluid" style="height:170px; margin-bottom:30px;"></a>
     </div>
 <div class="article-container">
   <?php
